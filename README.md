@@ -508,52 +508,6 @@ v0.2.0 schema), `test_experiments.py` (checksum via `ProcessedPanel`,
 
 ---
 
-## Citation
-
-If you use this software, please cite both the paper (preferred
-citation in `CITATION.cff`) and the software itself:
-
-```bibtex
-@article{REDACTED2026,
-  title   = {From Risk Detection to Risk Mitigation:
-             A Multi-Agent Approach for Dynamic Financial Stability
-             in Emerging Markets},
-  author  = {{Anonymous Authors}},
-  journal = {Expert Systems with Applications},
-  year    = {2026},
-  note    = {Under review; identifying details withheld for peer review.}
-}
-
-@software{REDACTED_software_v020,
-  title   = {em\_fin\_stability v0.2.0:
-             Reference implementation of an authority-constrained
-             multi-agent crisis-mitigation framework},
-  author  = {{Anonymous Authors}},
-  year    = {2026},
-  version = {0.2.0},
-  note    = {Under review; identifying details withheld for peer review.}
-}
-```
-
-The author and DOI fields will be populated at acceptance. GitHub
-displays the CFF metadata directly when you click *"Cite this
-repository"*.
-
----
-
 ## License
 
 MIT. See `LICENSE`.
-
----
-
-## Acknowledgments
-
-Listed at acceptance, once peer review is complete. The codebase builds
-directly on prior open-source work by Kraevskiy, Prokhorov &
-Sokolovskiy (2024); Aquilina, Araujo, Gelos, Park & Pérez-Cruz (2025);
-Li, Tam & Yeung (2024); Bluwstein, Buckmann, Joseph, Kang, Kapadia &
-Şimşek (2023); Hamilton (2018); and Abadie, Diamond & Hainmueller
-(2010). See `CITATION.cff` for the full reference list with citations
-to the BIS LBS bilateral dataset and the Laeven-Valencia (2020) crisis
-catalogue.
